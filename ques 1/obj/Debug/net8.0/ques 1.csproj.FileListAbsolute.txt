@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Assignment3\bin\Debug\net8.0\ques 1.exe
+C:\Users\DELL\source\repos\Assignment3\bin\Debug\net8.0\ques 1.deps.json
+C:\Users\DELL\source\repos\Assignment3\bin\Debug\net8.0\ques 1.runtimeconfig.json
+C:\Users\DELL\source\repos\Assignment3\bin\Debug\net8.0\ques 1.dll
+C:\Users\DELL\source\repos\Assignment3\bin\Debug\net8.0\ques 1.pdb
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.dll
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\refint\ques 1.dll
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.pdb
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ques 1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Assignment3\obj\Debug\net8.0\ref\ques 1.dll
